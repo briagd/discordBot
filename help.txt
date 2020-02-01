@@ -1,2 +1,6 @@
+I am a bot that is the result of procrastination. I have very limited abilities things may change in the near future.
+Type any of the following tags to interact with me:
 !meme : to get a programming meme
+!joke : to get a joke
 !weather : to get today's weather in Belval, Luxembourg
+!retrieval : add a question after this tag related to the information retrieval and you will get a crappy answer as I was only trained using few wikipedias articles
