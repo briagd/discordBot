@@ -1,7 +1,7 @@
 # A simple discord bot
 Using discord.py
 Get memes and jokes using the reddit api
-Get the weather using the open weather api
+Get the weather using the open weather api <br>
 
 The bot will greet anyone that says "hi" or "hello" on any channel
 
