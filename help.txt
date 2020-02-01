@@ -1,0 +1,2 @@
+!meme : to get a programming meme
+!weather : to get today's weather in Belval, Luxembourg
